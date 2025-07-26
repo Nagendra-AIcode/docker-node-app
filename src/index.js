@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
       text-align: center;
     }
   </style>
-  <h3 style='color:Green'>Congratulations, your app is running</h3>
+  <h3 style='color:Green'>Congratulations, your first app is running</h3>
   <table>
     <tr>
       <td>🐳 Message:</td>
